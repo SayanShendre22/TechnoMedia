@@ -1,0 +1,23 @@
+
+root{
+    --dark-color: #308D46;
+    --light-color: #ffffff;
+}
+
+body{
+
+    background: white;
+    
+}
+
+.primary-background{
+    /*background: #29B6F6!important*/
+    background: #29B6F6!important;
+    color: var(--light-color);
+}
+
+.dark-background{
+    /*background: #29B6F6!important*/
+    background: #29B6F6!important;
+    color: var(--dark-color);
+}
